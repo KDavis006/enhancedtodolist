@@ -1,10 +1,10 @@
 import React from 'react'
-import AdvancedToDoList from './Components/AdvancedToDoList';
+import ToDoList from './Components/ToDoList';
 
 const App = () => {
   return (
     <div>
-      <AdvancedToDoList />
+      <ToDoList />
     </div>
   )
 }
